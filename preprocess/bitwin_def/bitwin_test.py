@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Copyright (c) 2019-
+# Members: Hoe Sung Ryu( hoesungryu@yonsei.ac.kr )
+#          Jeong jaeeun( today1255@gmail.com )
 
 import numpy as np
 import pandas as pd
